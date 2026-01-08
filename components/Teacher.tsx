@@ -23,7 +23,7 @@ const Teacher: React.FC = () => {
           {/* Content Column */}
           <div className="md:col-span-3 p-8 md:p-12 flex flex-col justify-center">
             <div className="hidden md:block mb-6">
-              <h3 className="text-3xl font-serif font-bold text-sage-700">王老師 (Teacher Wang)</h3>
+              <h3 className="text-3xl font-serif font-bold text-sage-700">游老師 (Teacher Yu)</h3>
               <p className="text-gold-500 font-medium tracking-wide uppercase mt-2">認證超覺靜坐導師</p>
             </div>
 
