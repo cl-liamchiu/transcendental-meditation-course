@@ -16,7 +16,7 @@ const Teacher: React.FC = () => {
               className="absolute inset-0 w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-sage-700/80 to-transparent md:hidden flex items-end p-6">
-              <h3 className="text-3xl font-serif font-bold text-white">王老師</h3>
+              <h3 className="text-3xl font-serif font-bold text-white">游老師</h3>
             </div>
           </div>
 
